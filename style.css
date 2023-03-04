@@ -1,0 +1,257 @@
+body{
+    background-color:#3D087B;
+}
+.a1{
+    margin: 70px;
+}
+.box1{
+    width: 490px;
+    border: 2px solid black;
+    background-color:#FFFFFF;
+    border-radius: 20px;
+    height: 100px;
+    position:absolute;
+    left: 59%;
+    bottom: 400px;
+    z-index: 3;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items:center;
+    font-size: 25px;
+    text-align: center;
+}
+.box2{
+    width: 450px;
+    border: 2px solid black;
+    background-color:#ffffff;
+    border-radius: 20px;
+    height: 90px;
+    position:absolute ;
+    left: 61%;
+    bottom: 390px;
+    z-index: 2;
+    
+}
+.box3{
+    width: 400px;
+    border: 2px solid black;
+    background-color: #faf4f4;
+    border-radius: 20px;
+    height: 80px;
+    position:absolute ;
+    left: 63%;
+    bottom: 380px;
+    z-index: 1;
+}
+.b1{
+    width: 60px;
+    height: 50px;
+}
+.b2{
+    border: 1px solid black;
+    width: 60px;
+    height: 60px;
+    background-color: #F6E2FF;
+
+}
+.b3{
+    border: 1px solid black;
+    width: 60px;
+    height: 60px;
+    background-color: #F6E2FF;
+
+}
+.b4{
+    border: 1px solid black;
+    width: 60px;
+    height: 60px;
+    background-color: #F6E2FF;
+
+}
+.b5{
+    border: 1px solid black;
+    width: 60px;
+    height: 60px;
+    background-color: #F6E2FF;
+    
+
+}
+.c{
+    font-size: 15px;
+}
+.a2{
+    border: 2px solid black;
+    width: 500px;
+    height: 100px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    text-align: center;
+    font-family: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-900) var(--unnamed-font-size-30)/40px var(--unnamed-font-family-bauhaus-hv-bt);
+    position: absolute;
+    left: 750px;
+    top: 250px;
+    color: blue;
+}
+.a3{
+    position: absolute;
+    left: 710px;
+    top: 390px;
+    width: 200px;
+
+
+}
+.timetable{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 517px;
+    height: 335px;
+    background-color: #FFFFFF;
+}
+.a4{
+    position: absolute;
+    left: 29px;
+    top: 225px;
+
+}
+.a5{
+    position: absolute;
+    left:90px ;
+    top: 205px;
+    color: rgb(4, 4, 69);
+    font-size: 25px;
+    opacity: 1;
+
+}
+.a6{
+    border: 1px solid rgb(222, 222, 222);
+    width: 230px;
+    height: 25px;
+    position: absolute;
+    left: 280px;
+    top: 227px;
+    text-align: center;
+    padding-top: 10px;
+
+}
+select{
+    width: 200px;
+    color: #3D087B;
+}
+.a7{
+    border-left: 1px grey solid;
+    height: 30px;
+    position: relative;
+    left: -230px;
+    top: 20px;
+    
+}
+.a8{
+    position: relative;
+    right:345px;
+    top: 25px;
+
+}.a9{
+    position:relative;
+    right: 230px;
+    font-size: 25px;
+    bottom: 35px;
+    
+
+}
+.a10{
+    border: 1px solid  rgb(222, 222, 222);
+    width: 230px;
+    height: 25px;
+    text-align: center;
+    position: relative;
+    bottom: 90px;
+    padding-top: 10px;
+    left: -5px;
+    
+}
+.a11{
+    border-left: 1px solid grey;
+    height: 30px;
+    position: relative;
+    right:230px;
+    top: 10px;
+}
+.a12{
+    position: absolute;
+    right: 440px;
+    top: 167px;
+}
+.a13{
+    position: relative;
+    right: 240px;
+    bottom: 70px;
+    font-size: 25px;
+}
+.a14{
+    border: 1px solid  rgb(222, 222, 222);
+    width: 230px;
+    height: 25px;
+    text-align: center;
+    position: relative;
+    bottom: 120px;
+    padding-top: 10px;
+    left: -5px;
+
+
+}
+.a15{
+    position: absolute;
+    right: 440px;
+    top: 250px;
+}
+.a16{
+    position: relative;
+    right: 240px;
+    bottom: 100px;
+    font-size: 25px;
+}
+.a17{
+    border: 1px solid  rgb(222, 222, 222);
+    width: 230px;
+    height: 25px;
+    text-align: center;
+    position: relative;
+    bottom: 160px;
+    padding-top: 10px;
+    left: -5px;
+    
+}
+.a18{
+    border: 1px solid rgb(139, 135, 135);
+    position: absolute;
+    top: 560px;
+    left: 100px;
+    background-color: blueviolet;
+    width:450px;
+    border-radius: 10px;
+    text-align: center;
+    color: #faf4f4;
+}
+.a19{
+    border: 1px solid rgb(139, 135, 135);
+    width: 150px;
+    text-align: center;
+    height: 50px;
+    border-radius: 10px;
+    position: absolute;
+    top: 650px;
+    left: 300px;
+    background-color: bisque;
+
+}
+h3:hover{
+    party time
+
+}
+
+
+
+
+
